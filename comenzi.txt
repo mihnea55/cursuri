@@ -4,3 +4,6 @@ git add .
 git commit -m "Update folder"
 git push
 
+cd /c/facultate/cursuri
+git pull origin main
+
